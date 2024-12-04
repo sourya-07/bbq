@@ -26,16 +26,10 @@ nav {
 
 }
 
-.logo {
-    margin-left: 11px;
-}
-
-
 nav ul {
     display: flex;
     margin-top: 8px;
     margin-right: 46px;
-    color: ;
 }
 
 ul a {
