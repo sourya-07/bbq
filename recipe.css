@@ -4,12 +4,8 @@ body {
 div {
     display: flex;
 
-    /* justify-content: center; */
     align-items: center;
     flex-direction: column;
-    /* transition: width 2s; */
-    
-
 }
 
 img {
