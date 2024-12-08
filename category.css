@@ -47,7 +47,7 @@ h1 {
 
 
 .list {
-    /* padding-top: 30px; */
+    /* padding-top: -50px; */
     /* margin-left: 220px; */
     font-size: 25px;
     /* margin-left: -50px; */
@@ -78,6 +78,5 @@ h1 {
 .dish {
     display: flex;
     justify-content: space-around;
-    margin-left: -50px;
 
 }
