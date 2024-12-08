@@ -1,5 +1,6 @@
 body {
     background-color: cornsilk;
+    margin-top: 110px;
 }
 #img{
     height: 40px;
@@ -83,7 +84,9 @@ img {
 h2 {
     color: brown;
     text-decoration:underline;
+    margin-top: 70px;
 }
 a {
     color: rgba(255, 0, 0, 0.786);
+    margin-top: 20px;
 }
